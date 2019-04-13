@@ -3,4 +3,6 @@ main {
   margin: 1rem;
   padding: 1rem;
   border-radius: 3px;
+  font-size: 15px;
+  font-style: oblique;
 }
